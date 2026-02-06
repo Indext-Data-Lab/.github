@@ -12,7 +12,7 @@ We build Day 1-ready infrastructure with automated testing, documentation, and C
   <img src="https://img.shields.io/badge/Job%20Success-100%25-14a800?style=for-the-badge" alt="100% Job Success">
 </a>
 <a href="https://indext.io">
-  <img src="https://img.shields.io/badge/Revenue-%241M%2B-blue?style=for-the-badge" alt="$1M+ Revenue">
+  <img src="https://img.shields.io/badge/Revenue-%241M%2B-14a800?style=for-the-badge" alt="$1M+ Revenue">
 </a>
 <br/>
 <br/>
@@ -23,7 +23,7 @@ We build Day 1-ready infrastructure with automated testing, documentation, and C
 
 ---
 
-## ⚡ Our Strategy
+## Personalized approach
 
 We do not force a single tech stack. We adapt our architecture based on your business stage—whether you need to prove a concept fast or secure enterprise data.
 
@@ -39,22 +39,22 @@ We do not force a single tech stack. We adapt our architecture based on your bus
 
 ## 🚀 The 60-Day Protocol
 
-We solve your business problem first, then we code. Our process prevents budget waste by validating feasibility before any code is written.
+We solve your business problem first — then we code. Our process prevents budget waste by validating feasibility before any development begins.
 
 ### Phase 1: Blueprint (Days 0-14)
-* **Discovery & Feasibility:** We stress-test the idea against technical reality to ensure it's viable.
-* **Stack Selection:** We choose pragmatic tools that fit your long-term budget, avoiding trendy but expensive hype.
-* **Deliverable:** A complete architectural roadmap.
+* **Discovery & Feasibility:** We stress-test the idea against technical and budget constraints to ensure it’s truly viable.
+* **Stack Selection:** We choose pragmatic tools that fit your long-term goals, avoiding unnecessary complexity and costly overengineering.
+* **Deliverable:** A validated architectural roadmap and technical execution plan.
 
 ### Phase 2: Core Build (Days 15-45)
-* **Engineering:** Development of the "Working Alpha" using Python or Go.
-* **Infrastructure:** Setting up secure environments and security protocols immediately.
-* **Deliverable:** A functional system ready for internal testing.
+* **Engineering:** Development of a “Working Alpha” using Python or Go, focused on core functionality and real-world usability.
+* **Infrastructure:** Setup of secure development and staging environments with baseline security best practices from day one.
+* **Deliverable:** A functional system ready for internal testing and iteration.
 
 ### Phase 3: Launch (Days 46-60)
-* **QA & Deployment:** Rigorous testing followed by production deployment.
-* **Handover:** Full IP transfer. You own the code, the keys, and the documentation.
-* **Deliverable:** A market-ready MVP.
+* **Testing & Deployment:** Structured testing, bug fixing, and production deployment to ensure production readiness for MVP scope.
+* **Handover:** Full IP transfer. You own the codebase, infrastructure access, and documentation.
+* **Deliverable:** A market-ready MVP you fully control.
 
 ---
 
@@ -88,19 +88,10 @@ We use battle-tested technologies to ensure stability.
 
 ---
 
-## 💼 Engagement Models
-
-| Model | Description | Rate |
-| :--- | :--- | :--- |
-| **Hourly (Agile)** | Best for shifting requirements. Scale team up/down instantly. | **$60 - $120 / hr** |
-| **Dedicated Team** | Best for long-term velocity. 100% focus on your product. | **Retainer** |
-
----
-
 ## 🌍 Global Reach
 
 Headquartered in **Belgrade, Serbia**, with leadership in the US. We offer native/fluent support in:
-🇺🇸 **English** • 🇷🇺 **Russian** • 🇷🇸 **Serbian** • 🇺🇦 **Ukrainian** • 🇪🇸 **Spanish**
+<br>🇺🇸 **English** • 🇷🇺 **Russian** • 🇷🇸 **Serbian** • 🇺🇦 **Ukrainian** • 🇪🇸 **Spanish**
 
 ---
 
@@ -109,5 +100,7 @@ Headquartered in **Belgrade, Serbia**, with leadership in the US. We offer nativ
 ###
 Visit one of our profiles and
 **get a feasibility audit in 12 hours.**
+
+[**View Upwork Profile**](https://www.upwork.com/agencies/1474091721935302656/) • [**Visit Indext.io**](https://indext.io/) • [**Connect on LinkedIn**](https://www.linkedin.com/company/indext-data-lab/)
 
 </div>
