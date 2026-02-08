@@ -17,7 +17,7 @@ We build Day 1-ready infrastructure with automated testing, documentation, and C
 <br/>
 <br/>
 
-[**View Upwork Profile**](https://www.upwork.com/agencies/1474091721935302656/) • [**Visit Indext.io**](https://indext.io/) • [**Connect on LinkedIn**](https://www.linkedin.com/company/indext-data-lab/)
+[**View Upwork Profile**](https://www.upwork.com/agencies/1474091721935302656/) • [**Visit Indext.io**](https://indext.io/?utm_source=github&utm_medium=readme) • [**Connect on LinkedIn**](https://www.linkedin.com/company/indext-data-lab/)
 
 </div>
 
