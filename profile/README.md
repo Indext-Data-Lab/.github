@@ -23,20 +23,6 @@ We build Day 1-ready infrastructure with automated testing, documentation, and C
 
 ---
 
-## Personalized development
-
-We do not force a single tech stack. We adapt our architecture based on your business stage — whether you need to prove a concept fast or secure enterprise data.
-
-| Feature | **The 60-Day MVP** | **The Enterprise Scale** |
-| :--- | :--- | :--- |
-| **Objective** | **Validate market fit instantly** | **Reduce OpEx, ensure compliance, and own the data** |
-| **AI Layer** | API-First (OpenAI / Claude) | Hybrid AI: Self-Hosted + Private API Models |
-| **Infrastructure** | Serverless / Zero DevOps (Cloud Run) | Containerized workloads on managed K8s |
-| **Data Engine** | In-Memory Analysis (DuckDB) | Distributed Analytics (ClickHouse / Data Warehouse) |
-| **Architecture** | Fast Monoliths (FastAPI) | Modular Services with Fault Isolation |
-
----
-
 ## Our 60-Day Approach
 
 We solve your business problem first — then we code. Our process prevents budget waste by validating feasibility before any development begins.
@@ -58,10 +44,11 @@ We solve your business problem first — then we code. Our process prevents budg
 
 ---
 
-## 💻 Tech Stack & Capabilities
+## Personalized development
 
-We use battle-tested technologies to ensure stability.
+We do not force a single tech stack. We adapt our architecture based on your business stage — whether you need to prove a concept fast or secure enterprise data.
 
+Stability is our main priority:
 * **Languages:** Python (FastAPI), TypeScript, Go, SQL.
 * **AI Orchestration:** LangChain, Custom RAG Pipelines, Local LLM Inference.
 * **Database:** PostgreSQL (pgvector), Redis, DuckDB, ClickHouse.
@@ -96,6 +83,31 @@ Headquartered in **Belgrade, Serbia**, with leadership in the US. We offer nativ
 ---
 
 <div align="center">
+
+---
+
+## Our Github presence
+
+We build data pipelines, extraction tooling, and AI-powered products — 
+and publish the interesting parts here.
+
+This organization is our open R&D space: internal tools that outgrew 
+a private repo, experiments worth sharing, and datasets we think the 
+community can use.
+
+---
+
+## Active projects
+
+| Project | What it is |
+|---|---|
+| [windows-ui-synth](https://github.com/Indext-Data-Lab/windows-ui-synth) | YOLO11s Windows UI element detector — CV fallback for UI automation agents |
+| [promoPulse](https://kaggle.com/datasets/indext-data-lab-ai/promos-dataset) | Daily e-commerce promo dataset — LLM-structured, updated at 08:00 UTC |
+| [Indext Stealth Launcher](https://github.com/Indext-Data-Lab/executive-secretary-agent-framework) | A Windows app that turns Microsoft Edge into a programmable browser — and connects it to n8n via a local HTTP agent. |
+
+[Read case studies here](https://indext.io/case-studies) 
+
+---
 
 ###
 Visit one of our profiles and
